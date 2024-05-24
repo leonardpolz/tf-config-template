@@ -1,0 +1,6 @@
+tenant_id            = "00000000-0000-0000-0000-000000000000"
+subscription_id      = "00000000-0000-0000-0000-000000000000"
+resource_group_name  = "00000000-0000-0000-0000-000000000000"
+storage_account_name = "storageaccountname"
+container_name       = "containername"
+key                  = "tf-config-template-prd.tfstate"
